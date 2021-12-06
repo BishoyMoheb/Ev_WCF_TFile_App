@@ -1,0 +1,6 @@
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_SLib_TFile\Ev_WCF_SLib_TFile\obj\Debug\Ev_WCF_SLib_TFile.csprojResolveAssemblyReference.cache
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_SLib_TFile\Ev_WCF_SLib_TFile\bin\Debug\Ev_WCF_SLib_TFile.dll.config
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_SLib_TFile\Ev_WCF_SLib_TFile\bin\Debug\Ev_WCF_SLib_TFile.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_SLib_TFile\Ev_WCF_SLib_TFile\bin\Debug\Ev_WCF_SLib_TFile.pdb
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_SLib_TFile\Ev_WCF_SLib_TFile\obj\Debug\Ev_WCF_SLib_TFile.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_SLib_TFile\Ev_WCF_SLib_TFile\obj\Debug\Ev_WCF_SLib_TFile.pdb
