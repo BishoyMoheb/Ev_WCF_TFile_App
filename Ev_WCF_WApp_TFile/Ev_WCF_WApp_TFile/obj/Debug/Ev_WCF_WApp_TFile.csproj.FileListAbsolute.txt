@@ -1,0 +1,68 @@
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\ApplicationInsights.config
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\csc.exe
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\vbc.exe
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\VBCSCompiler.exe
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Ev_WCF_WApp_TFile.dll.config
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Ev_WCF_WApp_TFile.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Ev_WCF_WApp_TFile.pdb
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.Web.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.WindowsServer.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.ApplicationInsights.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.Web.xml
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.WindowsServer.xml
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.ApplicationInsights.xml
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\obj\Debug\Ev_WCF_WApp_TFile.csprojResolveAssemblyReference.cache
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\obj\Debug\Ev_WCF_WApp_TFile.dll
+c:\users\bishoy moheb\documents\visual studio 2015\Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\obj\Debug\Ev_WCF_WApp_TFile.pdb
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\ApplicationInsights.config
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\csc.exe
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\System.Collections.Immutable.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\System.Reflection.Metadata.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\vbc.exe
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\VBCSCompiler.exe
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\roslyn\VBCSCompiler.exe.config
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Ev_WCF_WApp_TFile.dll.config
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Ev_WCF_WApp_TFile.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Ev_WCF_WApp_TFile.pdb
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.Agent.Intercept.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.DependencyCollector.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.Web.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.WindowsServer.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.ApplicationInsights.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.DependencyCollector.xml
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.Web.xml
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.AI.WindowsServer.xml
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.ApplicationInsights.xml
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\obj\Debug\Ev_WCF_WApp_TFile.csproj.AssemblyReference.cache
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\obj\Debug\Ev_WCF_WApp_TFile.csproj.CoreCompileInputs.cache
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\obj\Debug\Ev_WCF_WApp_TFile.csproj.CopyComplete
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\obj\Debug\Ev_WCF_WApp_TFile.dll
+H:\VS_15 Projects\Ev_WCF_WApp_TFile\Ev_WCF_WApp_TFile\obj\Debug\Ev_WCF_WApp_TFile.pdb
